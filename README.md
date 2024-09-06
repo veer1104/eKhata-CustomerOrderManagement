@@ -1,6 +1,4 @@
 # eKhata-CustomerOrderManagement
-# eKhata
-
 **Empowering Local Vendors One Day at a Time**
 
 ## Overview

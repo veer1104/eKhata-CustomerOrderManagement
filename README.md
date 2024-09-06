@@ -41,7 +41,7 @@ By offering bilingual support (English and Hindi), eKhata makes sure that even u
 
 eKhata has been designed with a clean, intuitive interface. Below are some of the mockups showing both English and Hindi interfaces:
 
-[page2](eKhata-executive-summary-page2.jpg)
+![page2](eKhata-executive-summary-page2.jpg)
 
 ---
 

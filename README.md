@@ -1,10 +1,4 @@
 # eKhata-CustomerOrderManagement
-
-
-![page1](eKhata-executive-summary-page1.jpg)
-![page2](eKhata-executive-summary-page2.jpg)
-
-
 # eKhata
 
 **Empowering Local Vendors One Day at a Time**
@@ -15,7 +9,7 @@ eKhata is a mobile-first platform aimed at empowering local street vendors by pr
 
 By offering bilingual support (English and Hindi), eKhata makes sure that even underserved communities can benefit from a transparent and intuitive design, ultimately fostering trust between vendors and their customers.
 
-![eKhata Overview](./eKhata-executive-summary-page1.jpeg)
+![page1](eKhata-executive-summary-page1.jpg)
 
 ---
 
@@ -47,13 +41,7 @@ By offering bilingual support (English and Hindi), eKhata makes sure that even u
 
 eKhata has been designed with a clean, intuitive interface. Below are some of the mockups showing both English and Hindi interfaces:
 
-### English Version
-
-![English Mockups](./eKhata-executive-summary-page1.jpeg)
-
-### Hindi Version
-
-![Hindi Mockups](./eKhata-executive-summary-page2.jpeg)
+[page2](eKhata-executive-summary-page2.jpg)
 
 ---
 

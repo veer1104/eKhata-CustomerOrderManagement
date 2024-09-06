@@ -81,7 +81,7 @@ The app is lightweight, easy to use, and helps vendors save time, reduce errors,
 For any questions, collaborations, or more information, feel free to reach out:
 
 - **Email**: veer.kejriwa11@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/VeerKejriwal)
+- **LinkedIn**: [Veer Kejriwal](https://www.linkedin.com/in/VeerKejriwal)
 
 ---
 
